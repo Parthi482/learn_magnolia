@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/magnolia-cares.props" />
+</Project>
