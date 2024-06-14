@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ic-002/Desktop/Magnlia2/magnolia-cares/magnolia-cares.csproj": {}
+    "/home/ic-002/Desktop/teset/learn_magnolia/magnolia-cares.csproj": {}
   },
   "projects": {
-    "/home/ic-002/Desktop/Magnlia2/magnolia-cares/magnolia-cares.csproj": {
+    "/home/ic-002/Desktop/teset/learn_magnolia/magnolia-cares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ic-002/Desktop/Magnlia2/magnolia-cares/magnolia-cares.csproj",
+        "projectUniqueName": "/home/ic-002/Desktop/teset/learn_magnolia/magnolia-cares.csproj",
         "projectName": "magnolia-cares",
-        "projectPath": "/home/ic-002/Desktop/Magnlia2/magnolia-cares/magnolia-cares.csproj",
+        "projectPath": "/home/ic-002/Desktop/teset/learn_magnolia/magnolia-cares.csproj",
         "packagesPath": "/home/ic-002/.nuget/packages/",
-        "outputPath": "/home/ic-002/Desktop/Magnlia2/magnolia-cares/obj/",
+        "outputPath": "/home/ic-002/Desktop/teset/learn_magnolia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ic-002/.nuget/NuGet/NuGet.Config"

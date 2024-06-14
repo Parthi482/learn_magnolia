@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YoOlaZXZUG11zYYkFPKmMEPVBye6wAABcAvMkiG9jBxCzjTqBMHRfntZoJsVQ2sqxNW9yY8ITxSoyjx6Qx+AcQ==",
+  "dgSpecHash": "nf1RdJ9DUQryz8pVeHnm7mUSwH1Jf1w5y8ED8IW1IY1rUbMMSH0cFyDePlDm3/5bm2fNfOOgiQgaq6EmaW0uYg==",
   "success": true,
-  "projectFilePath": "/home/ic-002/Desktop/Magnlia2/magnolia-cares/magnolia-cares.csproj",
+  "projectFilePath": "/home/ic-002/Desktop/teset/learn_magnolia/magnolia-cares.csproj",
   "expectedPackageFiles": [
     "/home/ic-002/.nuget/packages/amazon.core/0.33.0/amazon.core.0.33.0.nupkg.sha512",
     "/home/ic-002/.nuget/packages/amazon.s3/0.33.0/amazon.s3.0.33.0.nupkg.sha512",

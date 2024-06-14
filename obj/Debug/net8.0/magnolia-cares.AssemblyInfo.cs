@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("magnolia-cares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1742386dbb27f5a4dd8940403b85a111458f484d")]
 [assembly: System.Reflection.AssemblyProductAttribute("magnolia-cares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("magnolia-cares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
